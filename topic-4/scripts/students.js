@@ -1,4 +1,4 @@
-import studentData from './data/students.json' assert {type : 'json'};
+import studentData from './data/students.json' assert {type : 'json'}
 
 class Student {
   getAllStudent() {
